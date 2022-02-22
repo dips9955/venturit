@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+    height: auto;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    }
+
+.card1 :hover {
+    background-color: blue
+}
